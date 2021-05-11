@@ -1,0 +1,5 @@
+WebSockets use cases:
+--> Chatting 
+--> Live Feed
+--> Multiplayer Game
+--> Showing client Progress/Logging
